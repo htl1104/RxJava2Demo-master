@@ -25,6 +25,12 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    /**
+     * 新增加方法
+     */
+    public void newTest(){
+        
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
